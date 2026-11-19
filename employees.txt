@@ -1,0 +1,4 @@
+EMP001 - Andi Pratama - Backend Developer
+EMP002 - Siti Rahmawati - UI/UX Designer
+EMP003 - Budi Santoso - Data Engineer
+EMP004 - Citra Lestari - QA Automation
